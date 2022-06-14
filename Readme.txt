@@ -21,3 +21,5 @@ How to Use:
 2. In GUI_ImageViewer.py, load image using ImageTk class from PIL module
 4. Add image object variable to image list
 (Code snippet can be taken from previously added images)
+
+NOTE: This code was written on Windows Machine so, if you are using UNIX based machine kindly alter Path conventions.
